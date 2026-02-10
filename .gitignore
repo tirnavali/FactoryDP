@@ -1,0 +1,4 @@
+*.class
+/java_factory_example
+/abstract_otel_factory/*.class
+/java_example
