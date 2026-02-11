@@ -7,7 +7,7 @@ public class Customer {
     private UUID id;
 
     private Customer() {
-    };
+    }
 
     public static Customer with(String name) {
         Customer customer = new Customer();
